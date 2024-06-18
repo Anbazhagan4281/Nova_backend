@@ -20,7 +20,7 @@ Ensure you have the following installed before proceeding:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Anbazhagan4281/Nova_backend.git
    cd your-repository
 
 
